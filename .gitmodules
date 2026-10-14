@@ -1,0 +1,12 @@
+[submodule "task1-fido-ts"]
+	path = task1-fido-ts
+	url = https://github.com/Official-Echo/task1-fido-ts.git
+[submodule "task1-fido-java"]
+	path = task1-fido-java
+	url = https://github.com/Official-Echo/task1-fido-java.git
+[submodule "task1-fido-rust"]
+	path = task1-fido-rust
+	url = https://github.com/Official-Echo/task1-fido-rust.git
+[submodule "task1-fido-asm"]
+	path = task1-fido-asm
+	url = https://github.com/Official-Echo/task1-fido-asm.git
